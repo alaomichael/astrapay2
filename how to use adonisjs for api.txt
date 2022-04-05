@@ -1,0 +1,9 @@
+// to run server and watch for changes
+node ace serve --watch
+
+// to run migration
+node ace migration:run
+
+ 
+
+
