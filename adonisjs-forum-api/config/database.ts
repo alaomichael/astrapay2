@@ -31,7 +31,7 @@ const databaseConfig: DatabaseConfig & { orm: Partial<OrmConfig> } = {
     | Configuration for MySQL database. Make sure to install the driver
     | from npm when using this connection
     |
-    | npm i mysql
+    | npm i mysql2
     |
     */
     mysql: {
